@@ -1,0 +1,170 @@
+/*green: #1D964A*/
+
+.noPadding {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.banner {
+  width: 100%;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #1D964A;
+  text-align: center;
+  font-family: 'Agenda';
+}
+
+.light {
+  font-weight: lighter;
+}
+
+.bold {
+  font-weight: bolder;
+}
+
+.andUp {
+  margin-top: -7px;
+}
+
+.andDown {
+  margin-top: 30px;
+}
+
+.inputStyle {
+  border-radius: 0px;
+  font-family: 'Agenda';
+}
+
+.buttonStyle {
+  background-color: #1D964A;
+  color: white;
+  border-radius: 0px;
+  font-family: 'Agenda';
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.buttonStyle:hover {
+  background-color: #1D964A;
+  color: white;
+  opacity: 0.8;
+}
+
+.buttonStyle:active {
+  background-color: #1D964A;
+  color: white;
+}
+
+.buttonStyle:focus {
+  background-color: #1D964A;
+  color: white;
+}
+
+.gray {
+  color: #78797A
+}
+
+.white {
+  color: white;
+}
+
+.andLineSpacing {
+  line-height: 1.4;
+}
+
+.andBigger {
+  font-size: 110%;
+}
+
+.footer {
+  margin-top: 100px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  vertical-align: middle;
+  background-color: #1D964A;
+}
+
+.center {
+  text-align: center;
+}
+
+/* -----Social Icons-----*/
+a.btn-social, .btn-social {
+  border-radius: 50%;
+  color: #ffffff !important;
+  display: inline-block;
+  height: 54px;
+  line-height: 54px;
+  margin: 8px 4px;
+  text-align: center;
+  padding-top: 19px;
+  text-decoration: none;
+  transition: background-color .3s;
+  webkit-transition: background-color .3s;
+  width: 54px;
+}
+
+.btn-social .fa,.btn-social i {
+  backface-visibility: hidden;
+  moz-backface-visibility: hidden;
+  ms-transform: scale(1.5);
+  o-transform: scale(1.5);
+  transform: scale(1.5);
+  transition: all .25s;
+  webkit-backface-visibility: hidden;
+  webkit-transform: scale(1);
+  webkit-transition: all .25s;
+}
+
+.btn-social:hover,.btn-social:focus {
+  color: #fff;
+  outline: none;
+  text-decoration: none;
+}
+
+.btn-social:hover .fa,.btn-social:focus .fa,.btn-social:hover i,.btn-social:focus i {
+  ms-transform: scale(1.8);
+  o-transform: scale(1.8);
+  transform: scale(1.8);
+  webkit-transform: scale(1.8);
+}
+
+.btn-social.btn-xs {
+  font-size: 9px;
+  height: 24px;
+  line-height: 13px;
+  margin: 6px 2px;
+  width: 24px;
+}
+
+.btn-social.btn-sm {
+  font-size: 13px;
+  height: 36px;
+  line-height: 18px;
+  margin: 6px 2px;
+  width: 36px;
+}
+
+.btn-social.btn-lg {
+  font-size: 22px;
+  height: 72px;
+  line-height: 40px;
+  margin: 10px 6px;
+  width: 72px;
+}
+
+.btn-facebook {
+  background-color: #1D964A;
+}
+
+.btn-google-plus {
+  background-color: #1D964A;
+}
+
+.btn-instagram {
+  background-color: #1D964A;
+}
+
+.btn-twitter {
+  background-color: #1D964A;
+}
