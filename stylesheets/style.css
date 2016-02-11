@@ -22,8 +22,26 @@ h1, h2, h3, h4, h5 {
   font-weight: bolder;
 }
 
+.smaller {
+  font-size: 25px;
+} 
+
 .andUp {
   margin-top: -7px;
+}
+
+#myForm {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.greyText {
+  padding-left: 110px;
+  padding-right: 110px;
+}
+
+.greenText {
+  font-size: 20px;
 }
 
 .andDown {
@@ -93,15 +111,15 @@ a.btn-social, .btn-social {
   border-radius: 50%;
   color: #ffffff !important;
   display: inline-block;
-  height: 54px;
-  line-height: 54px;
+  height: 44px;
+  line-height: 44px;
   margin: 8px 4px;
   text-align: center;
-  padding-top: 19px;
+  padding-top: 15px;
   text-decoration: none;
   transition: background-color .3s;
   webkit-transition: background-color .3s;
-  width: 54px;
+  width: 44px;
 }
 
 .btn-social .fa,.btn-social i {
