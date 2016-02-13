@@ -1,5 +1,8 @@
 /*green: #1D964A*/
 
+@font-face {
+    font-family: 'Agenda';
+
 .noPadding {
   padding-left: 0px;
   padding-right: 0px;
